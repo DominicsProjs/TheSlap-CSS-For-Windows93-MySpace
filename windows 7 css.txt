@@ -1,0 +1,169 @@
+.tableLeft
+{background-color: transparent;}
+
+#header a{
+    color: #white!important;
+    font-weight: bold;
+}
+
+#hSub a{
+    color: black !important;
+    font-weight: bold;
+}
+
+body {
+    background: url(https://cdn.discordapp.com/attachments/725183118230683679/733438539269668985/blurred_windows_7.png);
+    font-family: Segoe UI;
+    text-shadow: 3px 3px 5px #64acfa;
+    color: black;
+    text-align: left;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 15px;}
+
+b {color: #050a21}
+
+.box{border: 0px solid #949494}
+
+table {
+    border-collapse:separate;
+    border:solid black 10px;
+    border-radius:5px;
+    -moz-border-radius:15px;
+}
+
+
+table, th, td {
+  border: 0px outset #b0b0b0;
+}
+
+table {
+    background:url(https://cdn.discordapp.com/attachments/725183118230683679/733438156258410566/shine.png);
+    background-repeat:repeat;
+    background-position:center center;
+    border:0px solid black; 
+    }
+
+
+
+
+
+h1 {
+  text-shadow: 2px 2px 5px black;
+}
+
+table {
+  border: 0px #949494;
+}
+
+th, td {
+  padding: 20px;
+  text-align: left; }
+
+th 
+ { background-color: #0097FF;
+  color: #002054;
+}
+
+
+
+{-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px)}
+
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/725183118230683679/733438539269668985/blurred_windows_7.png");
+  background-repeat: ;
+  background-attachment: fixed;
+}
+
+.rightHead, .boxHead {
+    background-image: url(https://cdn.discordapp.com/attachments/725183118230683679/733441041751080971/windows7topbar.png);
+    border-bottom: 0px solid #949494;
+    border-top: 0px solid #949494; }
+
+.tableRight
+{background-color: transparent;}
+
+#header {background-image: url(https://cdn.discordapp.com/attachments/725183118230683679/733438539269668985/blurred_windows_7.png);}
+
+div#hSub {text-align: left;}
+div#hSub {text-color: white;}
+div#hSub{font-family:  Segoe UI;}
+div#header{font-family:  Segoe UI;}
+
+
+div#header {background-image: url(https://cdn.discordapp.com/attachments/725183118230683679/733438539269668985/blurred_windows_7.png);}
+
+div#hSub {background-image: url(https://cdn.discordapp.com/attachments/725183118230683679/733438539269668985/blurred_windows_7.png);}
+
+. boxInfo {background-color: white;}
+
+div.boxInfo.box {
+    background: var(--image-blur), rgba(0, 0, 0, 0.35);}
+
+div.box
+ backdrop-filter: blur(10px);
+
+@keyframes example {
+  7%    {opacity: 0.1;}
+  80% {opacity: 1.0;}
+  100% {opacity: .1;}
+}
+body{
+  cursor:;background url (https://cdn.discordapp.com/attachments/725183118230683679/728808754233213039/smoothed.jpg);
+}
+
+
+
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(6px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-6px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(6px, 0, 0);
+  }
+}
+
+
+.url.box {
+  animation: bootAndClippy 3s steps(1) none;
+  animation-fill-mode: forwards;
+}
+
+@keyframes bootAndClippy {
+  from {
+    background: url(https://media1.tenor.com/images/a6ec276269e915ca668e5658df11264c/tenor.gif?itemid=13277177) #000;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: fixed;
+    right: 0;
+    bottom: 0px;
+    top: 0;
+    left: 0;
+    color: #000;
+    border: none;
+    box-shadow: none;
+    filter: drop-shadow(8px 9px 15px #00000044);
+    z-index: 1000;
+  }
+
+{background-size:100% 100%;
+ background-attachment: fixed;}
+
